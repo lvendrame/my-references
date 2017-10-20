@@ -8,6 +8,7 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Eloquent JavaScript - pt-BR](http://braziljs.github.io/eloquente-javascript/)
 - [Learn ES2015](https://babeljs.io/learn-es2015/)
+- [Bluebird - Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 
 ## AngularJS (The real Angular, OK!!!)
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
