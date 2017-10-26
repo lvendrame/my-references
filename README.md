@@ -15,3 +15,6 @@
 - [Angular VSCode Snippets](https://github.com/johnpapa/vscode-angular1-snippets)
 - [AngularUI](https://angular-ui.github.io/)
 - [UI-Router](https://ui-router.github.io/ng1/)
+
+## CI
+- [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br/)
