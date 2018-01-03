@@ -16,5 +16,8 @@
 - [AngularUI](https://angular-ui.github.io/)
 - [UI-Router](https://ui-router.github.io/ng1/)
 
+## VueJS
+- [VueJS Cheat Sheet](https://vuejs-tips.github.io/cheatsheet/)
+
 ## CI
 - [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br/)
